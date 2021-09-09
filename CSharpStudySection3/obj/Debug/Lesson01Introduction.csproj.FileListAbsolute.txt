@@ -1,0 +1,7 @@
+D:\C# study\CSharpStudySection3\CSharpStudySection3\bin\Debug\CSharpStudySection3.exe.config
+D:\C# study\CSharpStudySection3\CSharpStudySection3\bin\Debug\CSharpStudySection3.exe
+D:\C# study\CSharpStudySection3\CSharpStudySection3\bin\Debug\CSharpStudySection3.pdb
+D:\C# study\CSharpStudySection3\CSharpStudySection3\obj\Debug\Lesson01Introduction.csproj.AssemblyReference.cache
+D:\C# study\CSharpStudySection3\CSharpStudySection3\obj\Debug\Lesson01Introduction.csproj.CoreCompileInputs.cache
+D:\C# study\CSharpStudySection3\CSharpStudySection3\obj\Debug\CSharpStudySection3.exe
+D:\C# study\CSharpStudySection3\CSharpStudySection3\obj\Debug\CSharpStudySection3.pdb
