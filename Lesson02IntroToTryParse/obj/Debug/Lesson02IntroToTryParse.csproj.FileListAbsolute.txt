@@ -1,0 +1,7 @@
+D:\C# study\CSharpStudySection3\Lesson02IntroToTryParse\bin\Debug\Lesson02IntroToTryParse.exe.config
+D:\C# study\CSharpStudySection3\Lesson02IntroToTryParse\bin\Debug\Lesson02IntroToTryParse.exe
+D:\C# study\CSharpStudySection3\Lesson02IntroToTryParse\bin\Debug\Lesson02IntroToTryParse.pdb
+D:\C# study\CSharpStudySection3\Lesson02IntroToTryParse\obj\Debug\Lesson02IntroToTryParse.csproj.AssemblyReference.cache
+D:\C# study\CSharpStudySection3\Lesson02IntroToTryParse\obj\Debug\Lesson02IntroToTryParse.csproj.CoreCompileInputs.cache
+D:\C# study\CSharpStudySection3\Lesson02IntroToTryParse\obj\Debug\Lesson02IntroToTryParse.exe
+D:\C# study\CSharpStudySection3\Lesson02IntroToTryParse\obj\Debug\Lesson02IntroToTryParse.pdb
