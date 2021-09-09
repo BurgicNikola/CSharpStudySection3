@@ -1,0 +1,6 @@
+D:\C# study\CSharpStudySection3\IfElseIfAndTryParse\bin\Debug\IfElseIfAndTryParse.exe.config
+D:\C# study\CSharpStudySection3\IfElseIfAndTryParse\bin\Debug\IfElseIfAndTryParse.exe
+D:\C# study\CSharpStudySection3\IfElseIfAndTryParse\bin\Debug\IfElseIfAndTryParse.pdb
+D:\C# study\CSharpStudySection3\IfElseIfAndTryParse\obj\Debug\Lesson03IfElseIfAndTryParse.csproj.CoreCompileInputs.cache
+D:\C# study\CSharpStudySection3\IfElseIfAndTryParse\obj\Debug\IfElseIfAndTryParse.exe
+D:\C# study\CSharpStudySection3\IfElseIfAndTryParse\obj\Debug\IfElseIfAndTryParse.pdb
