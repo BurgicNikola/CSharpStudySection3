@@ -31,6 +31,7 @@ namespace Lesson04Challenge
             username = Console.ReadLine();
             Console.Write("Choose your password: ");
             password = Console.ReadLine();
+            Console.WriteLine("Registration complete. \n--------------------");
         }
 
         public static void Register()
