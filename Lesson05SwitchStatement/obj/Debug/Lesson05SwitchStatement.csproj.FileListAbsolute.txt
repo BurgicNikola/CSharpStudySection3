@@ -1,0 +1,7 @@
+D:\C# study\CSharpStudySection3\Lesson05SwitchStatement\bin\Debug\Lesson05SwitchStatement.exe.config
+D:\C# study\CSharpStudySection3\Lesson05SwitchStatement\bin\Debug\Lesson05SwitchStatement.exe
+D:\C# study\CSharpStudySection3\Lesson05SwitchStatement\bin\Debug\Lesson05SwitchStatement.pdb
+D:\C# study\CSharpStudySection3\Lesson05SwitchStatement\obj\Debug\Lesson05SwitchStatement.csproj.AssemblyReference.cache
+D:\C# study\CSharpStudySection3\Lesson05SwitchStatement\obj\Debug\Lesson05SwitchStatement.csproj.CoreCompileInputs.cache
+D:\C# study\CSharpStudySection3\Lesson05SwitchStatement\obj\Debug\Lesson05SwitchStatement.exe
+D:\C# study\CSharpStudySection3\Lesson05SwitchStatement\obj\Debug\Lesson05SwitchStatement.pdb
