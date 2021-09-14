@@ -23,6 +23,12 @@ namespace Lesson07TernaryOperator
                 stateOfMatter = "gas";
             }
 
+            // Ternary operator
+            // string variable = is condition true ? "yes" : "no"
+            // string variable = is condition true ? "yes" : is other condition true ? "yes" : "no"
+
+            stateOfMatter = temperature <= 0 ? "solid" : temperature < 100 ? "liquid" : "gas";
+
             Console.WriteLine($"State of matter is {stateOfMatter}.");
 
             Console.Read();
